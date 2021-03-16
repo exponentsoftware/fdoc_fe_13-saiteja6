@@ -37,10 +37,7 @@
   }
 }
 
-ul.container {
-  list-style-type: none;
-}
-
 .container {
   display: flex;
+  justify-content: space-between;
 }
